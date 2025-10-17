@@ -13,6 +13,7 @@ import AddShows from '../pages/admin/AddShows'
 import Dashboard from '../pages/admin/Dashboard'
 import ListShows from '../pages/admin/ListShows'
 import ListBookings from '../pages/admin/ListBookings'
+import Layout from '../pages/admin/Layout'
 
 const App = () => {
 
